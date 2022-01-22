@@ -1,0 +1,8 @@
+C:\Users\Aditya\source\repos\Area\obj\Debug\Area.csproj.AssemblyReference.cache
+C:\Users\Aditya\source\repos\Area\obj\Debug\Area.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aditya\source\repos\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\source\repos\Area\bin\Debug\Area.exe.config
+C:\Users\Aditya\source\repos\Area\bin\Debug\Area.exe
+C:\Users\Aditya\source\repos\Area\bin\Debug\Area.pdb
+C:\Users\Aditya\source\repos\Area\obj\Debug\Area.exe
+C:\Users\Aditya\source\repos\Area\obj\Debug\Area.pdb

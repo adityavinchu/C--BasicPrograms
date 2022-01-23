@@ -1,0 +1,7 @@
+C:\Users\Aditya\source\repos\prime\bin\Debug\prime.exe.config
+C:\Users\Aditya\source\repos\prime\bin\Debug\prime.exe
+C:\Users\Aditya\source\repos\prime\bin\Debug\prime.pdb
+C:\Users\Aditya\source\repos\prime\obj\Debug\prime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aditya\source\repos\prime\obj\Debug\prime.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\source\repos\prime\obj\Debug\prime.exe
+C:\Users\Aditya\source\repos\prime\obj\Debug\prime.pdb

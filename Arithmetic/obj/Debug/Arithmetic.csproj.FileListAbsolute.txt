@@ -1,0 +1,8 @@
+C:\Users\Aditya\source\repos\Arithmetic\bin\Debug\Arithmetic.exe.config
+C:\Users\Aditya\source\repos\Arithmetic\bin\Debug\Arithmetic.exe
+C:\Users\Aditya\source\repos\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\Aditya\source\repos\Arithmetic\obj\Debug\Arithmetic.csproj.AssemblyReference.cache
+C:\Users\Aditya\source\repos\Arithmetic\obj\Debug\Arithmetic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aditya\source\repos\Arithmetic\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\source\repos\Arithmetic\obj\Debug\Arithmetic.exe
+C:\Users\Aditya\source\repos\Arithmetic\obj\Debug\Arithmetic.pdb

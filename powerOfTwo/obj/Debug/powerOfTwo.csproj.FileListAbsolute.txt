@@ -1,0 +1,8 @@
+C:\Users\Aditya\source\repos\powerOfTwo\obj\Debug\powerOfTwo.csproj.AssemblyReference.cache
+C:\Users\Aditya\source\repos\powerOfTwo\obj\Debug\powerOfTwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aditya\source\repos\powerOfTwo\obj\Debug\powerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\source\repos\powerOfTwo\bin\Debug\powerOfTwo.exe.config
+C:\Users\Aditya\source\repos\powerOfTwo\bin\Debug\powerOfTwo.exe
+C:\Users\Aditya\source\repos\powerOfTwo\bin\Debug\powerOfTwo.pdb
+C:\Users\Aditya\source\repos\powerOfTwo\obj\Debug\powerOfTwo.exe
+C:\Users\Aditya\source\repos\powerOfTwo\obj\Debug\powerOfTwo.pdb

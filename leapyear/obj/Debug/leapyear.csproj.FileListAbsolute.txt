@@ -1,0 +1,8 @@
+C:\Users\Aditya\source\repos\leapyear\obj\Debug\leapyear.csproj.AssemblyReference.cache
+C:\Users\Aditya\source\repos\leapyear\obj\Debug\leapyear.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aditya\source\repos\leapyear\obj\Debug\leapyear.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\source\repos\leapyear\bin\Debug\leapyear.exe.config
+C:\Users\Aditya\source\repos\leapyear\bin\Debug\leapyear.exe
+C:\Users\Aditya\source\repos\leapyear\bin\Debug\leapyear.pdb
+C:\Users\Aditya\source\repos\leapyear\obj\Debug\leapyear.exe
+C:\Users\Aditya\source\repos\leapyear\obj\Debug\leapyear.pdb

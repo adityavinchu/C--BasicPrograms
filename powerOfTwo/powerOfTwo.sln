@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "powerOfTwo", "powerOfTwo.csproj", "{0F290A65-2030-4320-A558-65049F5DB5EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F290A65-2030-4320-A558-65049F5DB5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F290A65-2030-4320-A558-65049F5DB5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F290A65-2030-4320-A558-65049F5DB5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F290A65-2030-4320-A558-65049F5DB5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5E294FB-5D93-44C3-B113-397ADF5DFAAA}
+	EndGlobalSection
+EndGlobal
